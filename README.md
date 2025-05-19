@@ -13,8 +13,8 @@ contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
 - Automatically flags valid and invalid emails, with only '@ucsb.edu' emails being considered valid
 - Shows a running count of invalid emails row-by-row
 - Allows you to download:
--   The full annotated CSV
--   A filtered list of **just the invalid emails**
+  - The full annotated CSV
+  - A filtered list of **just the invalid emails**
 
 ## Requirements
 
@@ -23,5 +23,6 @@ contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
 - streamlit
 
 ## Project Files
+
 - 'email_validator_app.py' - The main streamlit app
 - 'requirements.txt' - Required Python packages for deployment
