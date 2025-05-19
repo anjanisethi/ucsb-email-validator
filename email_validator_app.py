@@ -6,7 +6,7 @@ st.title('UCSB Email Validator')
 st.markdown(
     '''Upload a CSV table that contains an 'email' column. This tool will flag email 
     addresses with the '@ucsb.edu' domain, create a CSV file containing emails with invalid addresses,
-    and creat a CSV containing the fully annotated dataset.'''
+    and create a CSV containing the fully annotated dataset.'''
 )
 uploaded_file = st.file_uploader('Upload your CSV file', type='csv')
 
