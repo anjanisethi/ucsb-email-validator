@@ -9,19 +9,19 @@ contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
 [Launch the app](https://ucsb-email-validator.streamlit.app/)
 
 ## Features
-– Upload a CSV file containing an 'email' column
+- Upload a CSV file containing an 'email' column
 - Automatically flags valid and invalid emails, with only '@ucsb.edu' emails being considered valid
 - Shows a running count of invalid emails row-by-row
 - Allows you to download:
-  – The full annotated CSV 
-  – A filtered list of **just the invalid emails**
+-   The full annotated CSV
+-   A filtered list of **just the invalid emails**
 
 ## Requirements
 
-– Python 3.7+
-– pandas
-– streamlit
+- Python 3.7+
+- pandas
+- streamlit
 
 ## Project Files
-– 'email_validator_app.py' - The main streamlit app
-– 'requirements.txt' - Required Python packages for deployment
+- 'email_validator_app.py' - The main streamlit app
+- 'requirements.txt' - Required Python packages for deployment
