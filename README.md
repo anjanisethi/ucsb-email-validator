@@ -1,7 +1,7 @@
 # UCSB Email Validator
 
 This is a simple web app buit with [Streamlit](https://streamlit.io/) that helps users identify and export invalid
-email addresses from a CSV contact list. It is designed for use with mailing lists that are meant to only
+email addresses from a CSV contact list. It's designed for use with mailing lists that are meant to only
 contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
 
 ## Try it Out
