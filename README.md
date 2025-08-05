@@ -13,7 +13,7 @@ contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
 [Launch the app](https://ucsb-email-validator.streamlit.app/)
 
 ## Features
-- Upload a CSV file containing an 'email' column
+- Upload a CSV file containing a designated email column
 - Automatically flags valid and invalid emails, with only '@ucsb.edu' emails being considered valid
 - Shows a running count of invalid emails row-by-row
 - Allows you to download:
