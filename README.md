@@ -1,5 +1,9 @@
 # UCSB Email Validator
 
+Created by **Anjani Sethi**
+Program Management Office, UC Santa Barbara ITS
+Undergraduate in Statistics & Data Science + Communication
+
 This is a simple web app buit with [Streamlit](https://streamlit.io/) that helps users identify and export invalid
 email addresses from a CSV contact list. It's designed for use with mailing lists that are meant to only
 contain '@ucsb.edu' addresses (for internal UCSB communications or campaigns).
