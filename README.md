@@ -1,7 +1,7 @@
 # UCSB Email Validator
 
 Created by **Anjani Sethi**
-Program Management Office, UC Santa Barbara ITS
+\nProgram Management Office, UC Santa Barbara ITS
 Undergraduate in Statistics & Data Science + Communication
 
 This is a simple web app buit with [Streamlit](https://streamlit.io/) that helps users identify and export invalid
