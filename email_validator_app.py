@@ -7,7 +7,6 @@ st.markdown(
     '''Upload a CSV file that contains a designated email column. This tool will flag email 
     addresses that don't have the '@ucsb.edu' domain. The app will also create a CSV file containing emails with invalid addresses,
     as well as a CSV containing the fully annotated dataset.
-    
     Created by Anjani Sethi
     Program Management Office, UC Santa Barbara ITS
     Undergraduate in Statistics & Data Science + Communication'''
